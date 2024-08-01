@@ -10,14 +10,14 @@ int main() {
   int userinputF; // User inputted Fahreinheit;
   int userinputC; // User inputted Celsius;
   int userinputUSDtoEuro; // User inputted for USD to EURO;
-  int userinputUSDtoRupee; // User inputted for USD to JPY;
+  int userinputUSDtoRupee; // User inputted for USD to Rupee;
   int userinputUSDtoRMB; // User inputted for USD to RMB;
   int userinputOunce; // User inputted for Ounce;
   int userinputGram; // User inputted for Gram;
   int fahrenheitToCelcius; // variable that stores the converted F->C;
   int celciusToFahrenheit; // variable that stores the converted C->F;
   float USDtoEURO ; // varaible that stores the converted USD->EURO;
-  float USDtoRupee; // stores the converted USD->JPY;
+  float USDtoRupee; // stores the converted USD->Rupee;
   float USDtoRMB; // stores the converted USD->RMB;
   float ounceToPounds; // stores the converted Ounce->Pounds;
   float gramsToPounds; // stores the vonerted Grams->Pounds;
